@@ -1,8 +1,8 @@
 {
     "path": {
-        "db": "/Users/guanyu/.maldb/db/malware.db",
-        "download": "/Users/guanyu/Workspaces/Malwares/3",
-        "export": "/Users/guanyu/Downloads"
+        "db": "C:\\Users\\ikaro/.maldb/db/malware.db",
+        "download": "E:\\Workspaces\\Malwares\\4",
+        "export": "C:\\Users\\ikaro/Downloads"
     },
     "lib": {
         "MalwareBazaar": {
