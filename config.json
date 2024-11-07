@@ -10,12 +10,7 @@
         },
         "VirusTotal": {
             "api": "https://www.virustotal.com/api/v3",
-            "key": [
-                "663e9f982853dc6e3e1a3cd9331e84dcadaffae6603fd91fefeffa7ef8ffd805",
-                "0d0223a181f5d0783642497e1624fadc007755cb832ac15e916edf6be141d34b",
-                "a093dfc9aad1a5c3c79996b0b960a315ce24ef8116f23a461fc462a2d609b4e1",
-                "8e6851236268e8e9e28e22695e59a648b8981ad156142dee4f5db8aa20614ddb"
-            ]
+            "key": []
         },
         "Koodous": {
             "api": "https://developer.koodous.com",
