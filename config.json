@@ -2,7 +2,8 @@
     "path": {
         "db": "C:\\Users\\ikaro/.maldb/db/malware.db",
         "download": "E:\\Workspaces\\Malwares\\4",
-        "export": "C:\\Users\\ikaro/Downloads"
+        "export": "C:\\Users\\ikaro/Downloads",
+        "info": "E:\\Workspaces\\Malwares\\info"
     },
     "lib": {
         "MalwareBazaar": {
@@ -10,7 +11,21 @@
         },
         "VirusTotal": {
             "api": "https://www.virustotal.com/api/v3",
-            "key": []
+            "key": [
+                "b4ed76def1a635c65e258ea8bd62595c8f96e3dad4e2045e2ed9c35df0f615cc",
+                "db8c8bbbfab55e17cb3ae0f19cee6d63693ddf9391df8b48e8d972f10d30118d",
+                "ff5d5a96603e7b0fb3594e99928f316a574c961c4d1a0cba3290aa3e8c14570c",
+                "c75cdf8b9c2854bc6639704886e5543662e38bf1dcd349df28b8515244029619",
+                "55645ad35917c5485bafa5cbfb7d7c0ca359d8ca4cecdcc2a1311814395ba355",
+                "b2358da41cd06f5acb1457a4b7482713ce2f3d4077eb216bfb624fe3bc9cbfc2",
+                "e4c9dd544cd7628daf5d9b223cf65489212d5c939127fb6f581c4330981868c5",
+                "9271709f78fbcba668cfe9b7112389acf87bc266538d7352956770259501879e",
+                "5e12e27b639d79760c55e260c440aada5033a0c3ac33f90ab122f5d029c73277",
+                "6ff9ad3c362ff4da73f9bd2b47114b90f6b990ad5ef4ed76579a0301ad95640f",
+                "85b1d809c1ef67e8d9e012bb1b1d00329e427af5d3bc920314b1e55d52d33cbc",
+                "11475739d1804c18c50c4382bb2246f9ad85385c0d7654d76dc002ebee67e9cf",
+                "f9c3d58121e926deb5af719efd240d835a5cd50d3caed07c8918351e7910d036"
+            ]
         },
         "Koodous": {
             "api": "https://developer.koodous.com",
